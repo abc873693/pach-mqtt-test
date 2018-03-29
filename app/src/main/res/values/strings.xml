@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">paho-mqtt-test</string>
+    <string name="hint_enter_message">請輸入訊息</string>
+</resources>
